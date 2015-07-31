@@ -72,7 +72,7 @@ public class ChatActivity extends BaseActivity
     {
         listSampleTestData.add("@chris you around?");
         listSampleTestData.add("Good morning! (megusta) (coffee)");
-        listSampleTestData.add("see you tmr (troll)(megusta) @Luck");
+        listSampleTestData.add("see you tmr (troll)(megusta) @Luck gud night");
         listSampleTestData.add("@Chris @Ben @Cassey how r you? (megusta)(happy)(cool)(troll)");
         listSampleTestData.add("Olympics are starting soon; http://www.nbcolympics.com");
         listSampleTestData.add("@Chris @Ben @Cassey how r you? have you guys check this link (https://github.com/square/leakcanary) this must be cool (happy) (cool)");
